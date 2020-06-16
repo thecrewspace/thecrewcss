@@ -1,0 +1,11 @@
+{
+  "name": "thecrewcss",
+  "version": "1.0.0",
+  "description": "Quickly design and customize responsive mobile-first sites by theCrew",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "theCrew",
+  "license": "ISC"
+}
